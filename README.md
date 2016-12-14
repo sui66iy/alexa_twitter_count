@@ -6,7 +6,7 @@ to support a talk I was giving; the idea is that it's simple enough to
 present in an hour or less but still lets you discuss some tricky
 elements.
 
-[Here are the corresponding slides/notes.]: https://docs.google.com/presentation/d/1FXmEjZtMM3V-9EnnF73xFZpV1A9efSWBF7qD-NjZ_fA/pub?start=false&loop=false&delayms=3000
+[Here are the corresponding slides/notes.](https://docs.google.com/presentation/d/1FXmEjZtMM3V-9EnnF73xFZpV1A9efSWBF7qD-NjZ_fA/pub?start=false&loop=false&delayms=3000)
 
 To make this work:
 
